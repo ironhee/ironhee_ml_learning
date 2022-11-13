@@ -1,4 +1,4 @@
-# ML learning - gradient descendent for univariate linear regression
+# ML learning - gradient descendent for multiple linear regression
 
 [Course](https://www.coursera.org/learn/machine-learning/home/week/2)
 
